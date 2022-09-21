@@ -5,7 +5,7 @@ class ContactsList extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Contacts'),),
+      appBar: AppBar(title: Text('Transfers'),),
       body: ListView(
         children:[
           Card(
