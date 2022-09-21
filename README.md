@@ -1,6 +1,6 @@
-# bytebank
+# Bytebank-API
 
-A new Flutter project.
+A new Flutter project, using API.
 
 ## Getting Started
 
